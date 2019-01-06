@@ -41,6 +41,10 @@ h1 {
   color: rgb(152,173,166);
 }
 
+header a {
+  color: rgb(152,173,166);
+}
+
 p {
   color: #555;
   font-size: 1em;
