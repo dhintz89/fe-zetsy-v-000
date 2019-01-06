@@ -29,6 +29,10 @@ header {
   border-bottom: 1px solid #ccc;
 }
 
+header h1 {
+  border-bottom: 1px solid #ccc;
+}
+
 * {
   font-family: baskerville, serif;
   color: #555;
