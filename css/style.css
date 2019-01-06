@@ -33,6 +33,10 @@ header h1 {
   border-bottom: 1px solid #ccc;
 }
 
+about h2 {
+  font-size: 2em;
+  color: rgb(111,127,122);
+}
 * {
   font-family: baskerville, serif;
   color: #555;
